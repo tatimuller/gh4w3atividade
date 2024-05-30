@@ -1,0 +1,1 @@
+Arquivo texte do exercício
